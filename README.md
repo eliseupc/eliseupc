@@ -17,8 +17,14 @@ Engenheiro de dados em formação com foco em construir pipelines confiáveis, a
 Interesse especial em Data Mesh, arquitetura distribuída de dados e na criação de modelos de governança que apoiem qualidade, escalabilidade e autonomia de domínios de dados. Sou apaixonado por arquitetura de dados, ETL/ELT, bancos relacionais e NoSQL, e por transformar fontes brutas em produtos úteis, eficientes e bem documentados.
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliseupc&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliseupc&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://img.shields.io/github/followers/eliseupc?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/eliseupc?style=for-the-badge&logo=github&label=Stars" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/last-commit/eliseupc/eliseupc?style=for-the-badge&logo=github&label=Last%20commit" alt="Last commit" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Stack-Python%20%7C%20SQL%20%7C%20Java-3776AB?style=for-the-badge&logo=python" alt="Main Stack" />
+  <img src="https://img.shields.io/badge/AWS-Lambda%20%7C%20S3%20%7C%20Glue-FF9900?style=for-the-badge&logo=amazonaws" alt="AWS Skills" />
 </div>
 
 ---
